@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUIApplication</string>
+    <string name="click_me_text">click me</string>
+</resources>
